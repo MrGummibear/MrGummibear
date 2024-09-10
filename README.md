@@ -7,7 +7,6 @@ Web Development Student
 Student of a Web Development Course
 
 * 🌍  I'm based in Ludwigsburg / Germany
-* 🖥️  See my portfolio at [My Portfolio](http://placeholder)
 
 ### Skills
 
